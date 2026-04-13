@@ -1,0 +1,10 @@
+
+    Topic: Machine Learning in Healthcare
+
+    Explain clearly:
+    Page: Artificial intelligence in healthcare
+Summary: Artificial intelligence in healthcare is the application of artificial intelligence (AI) to analyze and understand complex medical and healthcare data. In some cases, it can exceed or augment human capabilities by providing better or faster ways to diagnose, treat, or prevent disease.
+As the widespread use of artificial intelligence in healthcare is still relatively new, research is ongoing into its applications across various medical subdisci
+      
+Citation: Sutter, P. L., B. G. Z. & K. C. M. (2013). Artificial intelligence in healthcare. In Proceedings of the National Academy of Sciences, 3(4), pp. 737-738.
+Abstract: The main objective of this paper is to describe the current state of the field of human-machine interaction research in healthcare. The main goal of this paper is to provide an overview of the current state of the field and to provide an overview of how to address the challenges associated with the research in this field. I. Introduction The main objective of this paper is to describe the current state of the field of human-machine interaction research in healthcare. The main goal of
